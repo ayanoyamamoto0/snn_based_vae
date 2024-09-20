@@ -30,5 +30,5 @@ Github: [https://github.com/kamata1729/FullySpikingVAE](https://github.com/kamat
 * The performance of ANN-based models significantly increases with dataset size, whereas the performance of SNN-based models does not scale with larger datasets.
 * Increasing latent dimensions does not improve the performance of ANN-based VAEs, but SNN-based models benefit from a larger latent space.
 
-3 samples each from the original images and the images reconstructed by ANN-based and SNN-based VAEs with latent dimension 35
+3 samples each from the original images and the images reconstructed by ANN-based and SNN-based VAEs with latent dimension 35<br>
 <img src="https://github.com/ayanoyamamoto0/snn_based_vae/blob/main/output_samples.jpg" width=50% height=40%>
